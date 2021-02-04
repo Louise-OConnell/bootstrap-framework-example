@@ -19,6 +19,7 @@ footer{
     padding:30px;
     text-align: center;
 }
-p{
+.info{
   text-align: center;  
+  color: white; 
 }
