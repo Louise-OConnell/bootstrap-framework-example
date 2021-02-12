@@ -31,3 +31,6 @@ footer{
 h2{
   font-family: Courier, monospace; 
 }
+.container-fluid{
+  width: auto;  
+}
