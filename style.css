@@ -4,7 +4,7 @@ header{
     background-color: black;
     color: white;
     text-align: center;
-    position: relative;
+    width: 100%;
 }
 main{
     width:calc(75%);
@@ -16,7 +16,6 @@ aside{
     float: left;
     border-left: none;
     padding:30px;
-    position: relative;
 }
 footer{
     clear:both;
@@ -24,7 +23,7 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-    position: relative;
+    width: 100%;
 }
 .info{
   text-align: left;  
