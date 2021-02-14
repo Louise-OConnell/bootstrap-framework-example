@@ -4,7 +4,6 @@ header{
     background-color: black;
     color: white;
     text-align: center;
-    Position: fixed;
 }
 main{
     width:calc(75%);
@@ -23,7 +22,6 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-    Position: fixed;
 }
 .info{
   text-align: left;  
