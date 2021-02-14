@@ -8,13 +8,13 @@ header{
 main{
     width:calc(75%);
     float:left;
-    padding:10px;
+    padding:30px;
 }
 aside{
     width: calc(25% - 60px);
     float: left;
     border-left: none;
-    padding:10px;
+    padding:20px;
 }
 footer{
     clear:both;
