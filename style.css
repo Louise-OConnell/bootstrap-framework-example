@@ -14,7 +14,7 @@ aside{
     width: calc(25% - 60px);
     float: left;
     border-left: none;
-    padding:20px;
+    padding:0;
 }
 footer{
     clear:both;
