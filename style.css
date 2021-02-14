@@ -34,3 +34,6 @@ h2{
 .container-fluid{
   width: auto;  
 }
+.carousel-inner,.item,img { 
+    width:640px; height:360px; 
+}
