@@ -37,6 +37,5 @@ h2{
 .carousel-inner,.item,img { 
     width:640px; 
     height:360px; 
-    position: relative center;
-   
+    position: relative;  
 }
