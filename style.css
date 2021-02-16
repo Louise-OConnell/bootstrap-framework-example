@@ -1,5 +1,4 @@
 header{
-    padding:10px;
     font-family: Courier, monospace;
     background-color: black;
     color: white;
@@ -10,15 +9,7 @@ main{
     float:left;
     padding:30px;
 }
-aside{
-    width: calc(25% - 60px);
-    float: left;
-    border-left: none;
-    padding:10px;
-}
 footer{
-    clear:both;
-    padding:10px;
     text-align: center;
     background-color: black;
     color: white;
@@ -31,9 +22,6 @@ footer{
 h2{
   font-family: Courier, monospace; 
 }
-.container-fluid{
-  width: auto;  
-}
-.carousel-inner,.item,img { 
-  position: relative;  
+.TourDates{
+  color: white;
 }
